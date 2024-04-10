@@ -1,0 +1,25 @@
+.contenedor{
+    font-size: 2rem;
+    color: blue;
+    align-content: center;
+}
+body{
+    background-color: black;
+    width: 680px;
+    height: 1024px;
+}
+h2{
+    
+    color: white;
+}
+
+.contenedor-1{
+    font-size: 1.5rem;
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    align-content: normal;
+}
+footer{
+    align-items: end;
+    color: white;
+}
